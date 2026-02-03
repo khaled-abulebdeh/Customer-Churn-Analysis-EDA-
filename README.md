@@ -64,4 +64,15 @@ The dataset simulates a customer database where each record represents a custome
 
 ---
 
-## Project Structure
+## Future Improvements
+- Build churn prediction models
+- Address class imbalance
+- Perform feature engineering
+- Evaluate models using standard metrics
+
+---
+
+## Authors
+- Khaled Abu Lebdeh  
+- Aws Hammad  
+---
